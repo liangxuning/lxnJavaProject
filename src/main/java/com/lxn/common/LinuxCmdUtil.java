@@ -1,7 +1,7 @@
 package com.lxn.common;
 
 import com.jcraft.jsch.*;
-import util.MyUserInfo;
+import com.lxn.common.sshutil.MyUserInfo;
 
 import java.io.InputStream;
 import java.io.OutputStream;

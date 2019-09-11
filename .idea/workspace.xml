@@ -1,452 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4786df3b-2bbb-445d-a400-61bb5ea19f27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/bigmemory_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/bigmemory_4_0_0__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NioTest8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/DynamicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/MostSumInts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/StringLen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/base/bytetest/ByteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/base/threadtest/CalableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/base/threadtest/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/BinaryTurnUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/CompressUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/EncodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/HttpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/LinuxCmdUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/MapKeySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/MavenInstallJar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/MyFileUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/StringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/sshutil/MyUserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/sshutil/SshConnUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/log4j/Log4jtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyServerHanderThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyServerHanderTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nio/NioTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nio/NioTest8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nio/NioTest9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/URItest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/slf4j-api-1.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/slf4j-log4j12-1.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FileMarkTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InterfaceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MapKeySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/MapKeySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RandomRemberTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Randomabcdfg/ABCDEFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/tools/ABCDEFG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SomeTast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/annotation/AnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/base/annotationtest/AnnotationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codepassage/ByteTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codepassage/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/base/timetest/CalendarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codepassage/Quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/Quicksort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codepassage/RandomPasswd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/RandomPasswd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codepassage/RuntimeExec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codepassage/SshTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codepassage/TestSleep.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codepassage/TestSleep2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codepassage/TimerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codepassage/sshTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ehcachermi/EhcacheFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/ehcachermi/EhcacheFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ehcachermi/OwnEqualTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/ehcachermi/OwnEqualTo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ehcachermi/nodetest/NodeOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/ehcachermi/nodetest/NodeOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ehcachermi/nodetest/NodeThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/ehcachermi/nodetest/NodeThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ehcachermi/nodetest/NodeTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/ehcachermi/nodetest/NodeTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ehcachermi/vo/NeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/ehcachermi/vo/NeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fanxing/FanXin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fileio/AdapterUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fileio/FileSystemResourceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fileio/LtePMParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fileio/ReadHander.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fileio/ReadLteSubMeaConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/godutest/Godutest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/guavapack/GuavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/guavapack/GuavaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/guavapack/OptionalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/guavapack/OptionalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jndildap.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jndildap/Ldap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/jndildap/Ldap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jndildap/LdapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/jndildap/LdapImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jndildap/LdapJNDI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/jndildap/LdapJNDI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jndildap/testLdap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/jndildap/testLdap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jsontest/JsonTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/leetcode/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/leetcode/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loggertest/LoggerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loggertest/cycleVariables/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loggertest/cycleVariables/RootNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loggertest/cycleVariables/tes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loggertest/qwe.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/mychatServer/MyChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/mychatServer/MyChatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/mychatServer/MyChatClientHander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/mychatServer/MyChatClientHander.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/mychatServer/MyChatClientInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/mychatServer/MyChatClientInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/mychatServer/MyChatServerHander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/mychatServer/MyChatServerHander.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/mychatServer/MyChatserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/mychatServer/MyChatserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/mychatServer/MyChatserverInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/mychatServer/MyChatserverInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/myidserver/MyIdlestatClientInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/myidserver/MyIdlestatClientInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/myidserver/MyIdlestatServerHander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/myidserver/MyIdlestatServerHander.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/myidserver/MyIdlestatserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/myidserver/MyIdlestatserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/myidserver/MyIdlestatserverInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/myidserver/MyIdlestatserverInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/myidserver/MyIdstatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/myidserver/MyIdstatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/myidserver/MyIdstatClientHander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/myidserver/MyIdstatClientHander.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/nettytest/MyClientHander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyClientHander.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/nettytest/MyClientInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyClientInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/nettytest/MyServerHander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyServerHander.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/nettytest/Myclient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/Myclient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/nettytest/Myserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/Myserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/nettytest/MyserverInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyserverInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/observice/Earth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/designpattern/observice/Earth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/observice/Satellite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/designpattern/observice/Satellite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/observice/WeatherServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/designpattern/observice/WeatherServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/GetMultPwd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/GetMultPwd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/PacketInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/PacketInfoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test/EleClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test/EleClassA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test/EleClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test/EleClassB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test/RootClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test/RootClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test2/EleClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test2/EleClassA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test2/EleClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test2/EleClassB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test2/RootClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test2/RootClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test2/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test2/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test2/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test3/EleClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test3/EleClassA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test3/EleClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test3/EleClassB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test3/RootClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test3/RootClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test3/privat1/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test3/privat1/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test3/privat1/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test3/privat1/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test3/privat2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test3/privat2/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/packetinfotest/test3/privat2/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test3/privat2/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socketserver/SockerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/SockerServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socketserver/SockerServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/SockerServerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socketserver/SocketClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/SocketClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socketserver/SocketClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/SocketClientTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socketserver/socketserverobject/NeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/socketserverobject/NeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socketserver/socketserverobject/SockerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/socketserverobject/SockerServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socketserver/socketserverobject/SockerServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/socketserverobject/SockerServerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socketserver/socketserverobject/SocketClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/socketserverobject/SocketClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socketserver/socketserverobject/SocketClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/socketserverobject/SocketClientTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/mainthread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/CompressUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/CompressUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/EncodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/EncodeUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/HttpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/HttpUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/MyUserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/sshutil/MyUserInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/SshConnUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/sshutil/SshConnUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/StringUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/AWebServiceInvoker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/DynamicInvoker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/GetMultPwd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/GetMultPwdResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/GetPwd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/GetPwdResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/ObjectFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/QuerySysRes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/QuerySysResPortType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/SearchRes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/SearchResResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/WebserverTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webservertest/ws2/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testfile/colNameCutConfig.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testfile/meaConfig.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testfile/subMeaConfig.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/guavapack/GuavaTestTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/string2char.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Randomabcdfg/ABCDEFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Randomabcdfg/ABCDEFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/annotation/AnnotationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/ByteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/CalendarTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/Quicksort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/RandomPasswd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/RuntimeExec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/SshTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/TestSleep$TestSleep2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/TestSleep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/TestSleep2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/TimerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/sshTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codepassage/sshTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ehcachermi/EhcacheFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ehcachermi/OwnEqualTo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ehcachermi/nodetest/NodeOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ehcachermi/nodetest/NodeThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ehcachermi/nodetest/NodeTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fanxing/FanXin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fileio/FileSystemResourceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fileio/FileSystemResourceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fileio/LtePMParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fileio/LtePMParser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/godutest/Godutest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/guavapack/GuavaTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/guavapack/GuavaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/guavapack/OptionalDemo$Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/guavapack/OptionalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jndildap/Ldap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jndildap/LdapImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jndildap/LdapJNDI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jndildap/testLdap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jsontest/JsonTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/ThreeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/loggertest/LoggerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/loggertest/cycleVariables/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/loggertest/cycleVariables/RootNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/loggertest/cycleVariables/tes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/ehcachermi/vo/NeInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/packetinfotest/test3/EleClassA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/packetinfotest/test3/EleClassB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/packetinfotest/test3/RootClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/packetinfotest/test3/privat1/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/packetinfotest/test3/privat1/package-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/packetinfotest/test3/privat2/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/packetinfotest/test3/privat2/package-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/mychatServer/MyChatClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/mychatServer/MyChatClientHander.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/mychatServer/MyChatClientInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/mychatServer/MyChatServerHander.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/mychatServer/MyChatserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/mychatServer/MyChatserverInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/myidserver/MyIdlestatClientInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/myidserver/MyIdlestatServerHander$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/myidserver/MyIdlestatServerHander.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/myidserver/MyIdlestatserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/myidserver/MyIdlestatserverInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/myidserver/MyIdstatClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/myidserver/MyIdstatClientHander.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/nettytest/MyClientHander.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/nettytest/MyClientInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/nettytest/MyServerHander.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/nettytest/Myclient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/nettytest/Myserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/nettytest/MyserverInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observice/Earth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observice/Earth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observice/Satellite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observice/Satellite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observice/WeatherServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observice/WeatherServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socketserver/SockerServer$SockerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socketserver/SockerServer$SockerThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socketserver/SockerServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socketserver/SockerServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socketserver/SocketClient$Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socketserver/SocketClient$Writer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socketserver/socketserverobject/SockerServer$SockerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socketserver/socketserverobject/SockerServer$SockerThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socketserver/socketserverobject/SockerServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socketserver/socketserverobject/SockerServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socketserver/socketserverobject/SocketClient$Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socketserver/socketserverobject/SocketClient$Writer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/mainthread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/mainthread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/EncodeUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/EncodeUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/HttpUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/HttpUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/guavapack/GuavaTestTest.class" beforeDir="false" />
+    <list default="true" id="cfc19c79-b7fc-4333-a4e4-5923fcd515c4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_value_auto_value_annotations_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_truth_truth_0_42.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_java_diff_utils_diffutils_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_55.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_6_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_10_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_jgroupsreplication_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_1_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_8_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_12_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_core_2_5_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_json_plugin_2_5_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_spring_plugin_2_5_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jgroups_jgroups_3_0_9_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20180813.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/BytesUtil.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/bigmemory_4_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/bigmemory_4_0_0__2_.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/lxn/common/BinaryTurnUtil.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lxnJavaProject.iml" afterPath="$PROJECT_DIR$/lxnJavaProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lxn/base/bytetest/ByteTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/base/bytetest/ByteTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lxn/common/EncodeUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/EncodeUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lxn/common/LinuxCmdUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/lxn/common/LinuxCmdUtil.java" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1742607050">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.8" value="3" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="AbstractBootstrap" value="2" />
-          <entry key="MF" value="2" />
-          <entry key="ServerBootstrap" value="1" />
-          <entry key="class" value="7" />
-          <entry key="iml" value="1" />
-          <entry key="ini" value="2" />
-          <entry key="java" value="389" />
-          <entry key="kt" value="1" />
-          <entry key="properties" value="1" />
-          <entry key="puml" value="1" />
-          <entry key="readme" value="2" />
-          <entry key="txt" value="4" />
-          <entry key="xml" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="7" />
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="389" />
-          <entry key="Kotlin" value="1" />
-          <entry key="Manifest" value="2" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Properties" value="1" />
-          <entry key="UML" value="3" />
-          <entry key="XML" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="1" />
-          <entry key="java" value="2937" />
-          <entry key="txt" value="5" />
-          <entry key="xml" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2937" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sometest/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/ehcache.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sometest/Stringsub.java">
+    <leaf>
+      <file leaf-file-name="BytesUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/common/BytesUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sometest/TryCatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2329" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NioTest8.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin File" />
-        <option value="JavaFXApplication" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>fac</find>
-      <find>channel</find>
-      <find>channelf</find>
-      <find>down</find>
-      <find>su</find>
-      <find>run</find>
-      <find>submit</find>
-      <find>execute</find>
-      <find>getAllAppenders</find>
-      <find>addAppender</find>
-      <find>this.a</find>
-      <find>doA</find>
-      <find>format</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../github_project/java_project/spring-framework-master" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nio/NioTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codepassage/StringLen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codepassage/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/DynamicTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyServerHanderThree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyServerHanderTwo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyClientInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyserverInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyClientHander.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/MyServerHander.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/base/threadtest/CalableTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/log4j/Log4jtest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/test/URItest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/annotation/AnnotationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/common/MavenInstallJar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/base/annotationtest/AnnotationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codepassage/BinaryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codepassage/ByteTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/base/bytetest/ByteTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codepassage/CalendarTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/base/timetest/CalendarTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/MostSumInts.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/Quicksort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/common/RandomPasswd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codepassage/sshTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/common/LinuxCmdUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/StringLen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codepassage/TestSleep.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codepassage/TimerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/common/BinaryTurnUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/jndildap/LdapJNDI.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/algorithm/leetcode/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/guavapack/OptionalDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/guavapack/GuavaTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/observice/Earth.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/designpattern/observice/WeatherServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fileio/FileSystemResourceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/common/MyFileUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/test/packetinfotest/test/package-info.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/tools/ABCDEFG.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/socketserverobject/SockerServerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/common/sshutil/SshConnUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/common/HttpUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/common/StringUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/GetPwd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/common/MapKeySort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/QuerySysRes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/WebserverTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/ObjectFactory.java" />
-      </list>
+    <option name="externalProjectsViewState">
+      <projects_view />
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -458,18 +109,12 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$PROJECT_DIR$/../../resources/mvn_resource" />
-        <option name="mavenHome" value="$USER_HOME$/Library/apache-maven-3.5.4" />
-        <option name="userSettingsFile" value="$USER_HOME$/Library/apache-maven-3.5.4/conf/settings.xml" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="812" />
@@ -478,13 +123,20 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <autoscrollToSource ProjectPane="true" />
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
       <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -495,38 +147,6 @@
             <path>
               <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="lxnJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lxnJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="GODU_RESOURCE-3.1.jar" type="ab9368bb:PsiFileNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lxnJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="GODU_RESOURCE-3.1.jar" type="ab9368bb:PsiFileNode" />
-              <item name="rs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lxnJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="GODU_RESOURCE-3.1.jar" type="ab9368bb:PsiFileNode" />
-              <item name="rs" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lxnJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="protobuf-java-2.5.0.jar" type="ab9368bb:PsiFileNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lxnJavaProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -534,92 +154,22 @@
               <item name="lxnJavaProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lxnJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lxnJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lxnJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lxnJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Map&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567961179192" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/lxn/learn" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.lxn.common" />
-      <recent name="com.lxn.tools" />
-      <recent name="com.lxn.algorithm" />
-      <recent name="com.lxn.base.timetest" />
-      <recent name="com.lxn.base.annotationtest" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/lxn/common" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/lxn/worktest" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/lxn/common/sshutil" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/lxn/test" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -633,157 +183,138 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BigintToLong">
-    <configuration name="BigintToLong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sometest.BigintToLong" />
-      <module name="testProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sometest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
     </configuration>
-    <configuration name="BinaryTurnUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxn.common.BinaryTurnUtil" />
-      <module name="testProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxn.common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
     </configuration>
-    <configuration name="OptionalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="guavapack.OptionalDemo" />
-      <module name="testProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guavapack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
-    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codepassage.TimerTest" />
-      <module name="testProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codepassage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <configuration name="WeatherServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="observice.WeatherServer" />
-      <module name="testProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="observice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
     </configuration>
-    <list>
-      <item itemvalue="Application.TimerTest" />
-      <item itemvalue="Application.BinaryTurnUtil" />
-      <item itemvalue="Application.OptionalDemo" />
-      <item itemvalue="Application.WeatherServer" />
-      <item itemvalue="Application.BigintToLong" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.BigintToLong" />
-        <item itemvalue="Application.WeatherServer" />
-        <item itemvalue="Application.OptionalDemo" />
-        <item itemvalue="Application.BinaryTurnUtil" />
-        <item itemvalue="Application.TimerTest" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4786df3b-2bbb-445d-a400-61bb5ea19f27" name="Default Changelist" comment="" />
-      <created>1563203000868</created>
+      <changelist id="cfc19c79-b7fc-4333-a4e4-5923fcd515c4" name="Default" comment="" />
+      <created>1568197928361</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563203000868</updated>
-      <workItem from="1563203002508" duration="1525000" />
-      <workItem from="1563281471746" duration="795000" />
-      <workItem from="1563283598106" duration="31752000" />
-      <workItem from="1566572435857" duration="15446000" />
-      <workItem from="1567233939432" duration="1898000" />
-      <workItem from="1567266675772" duration="1128000" />
-      <workItem from="1567515746459" duration="4835000" />
-      <workItem from="1567609168590" duration="133000" />
-      <workItem from="1567841880114" duration="98000" />
-      <workItem from="1567922838877" duration="6229000" />
+      <updated>1568197928361</updated>
+      <workItem from="1568197931859" duration="123000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="ByteTest_main1 - 2019.09.08 at 17h 19m 01s.xml">
-      <configuration name="ByteTest.main1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ByteTest_main1 - 2019.09.08 at 17h 19m 24s.xml">
-      <configuration name="ByteTest.main1" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63839000" />
+    <option name="totallyTimeSpent" value="123000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32916668" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32916668" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -793,407 +324,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/../../resources/mvn_resource/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/PatternLayout.java</url>
-          <line>507</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/../../resources/mvn_resource/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/WriterAppender.java</url>
-          <line>309</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/nettytest/Myserver.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/SockerServer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/socketserverobject/SocketClientTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/SocketClientTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/SockerServerTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/socketserverobject/SockerServer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/learn/netty/basesocket/socketserver/socketserverobject/SockerServerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/common/BytesUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="75">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sometest/BigintToLong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/guavapack/GuavaTestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sometest/Double2String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sometest/MapKeyNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sometest/Prientfortest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/mainthread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/EncodeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1532">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/SshConnUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-875">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/MyUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/common/sshutil/MyUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/common/sshutil/SshConnUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/CompressUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/common/EncodeUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/common/CompressUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/common/HttpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/StringUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/common/StringUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/webservertest/ws2/WebserverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InterfaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-372">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MapKeySort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/common/MapKeySort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RandomRemberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SomeTast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/QuerySysRes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/WebserverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/SearchResResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/SearchRes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/GetPwd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxn/worktest/webservertest/ws2/ObjectFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sometest/Stringsub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sometest/TryCatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="49" lean-forward="true" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileMarkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AbstractTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sometest/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/testfile/meaConfig.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/testfile/colNameCutConfig.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/string2char.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/ehcache.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NioTest8.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2329" />
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: org.apache.commons:commons-text:1.1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>testProject</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: org.slf4j:slf4j-api:1.6.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
