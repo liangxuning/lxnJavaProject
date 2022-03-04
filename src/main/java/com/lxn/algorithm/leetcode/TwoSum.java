@@ -7,7 +7,7 @@ import java.util.Map;
 
 public class TwoSum {
     public static void main(String[] args) {
-        int[] sum = {1, 2, 3, 4};
+        int[] sum = {1, 0, 3, 4, 5};
         int target = 5;
 //        for (int i = 0; i < sum.length - 1; i++) {
 //            for (int j = i + 1; j < sum.length; j++) {

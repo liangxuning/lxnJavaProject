@@ -19,7 +19,7 @@ public class MyserverInitializer extends ChannelInitializer<SocketChannel> {
         channelPipeline.addLast(new StringDecoder(CharsetUtil.UTF_8));
         channelPipeline.addLast(new StringEncoder(CharsetUtil.UTF_8));
         channelPipeline.addLast(new MyServerHander());
-        channelPipeline.addLast(new MyServerHanderTwo(60, 60, 60));
-        channelPipeline.addLast(new MyServerHanderThree(60, 60, 60));
+//        channelPipeline.addLast(new MyServerHanderTwo(60, 60, 60));
+//        channelPipeline.addLast(new MyServerHanderThree(60, 60, 60));
     }
 }

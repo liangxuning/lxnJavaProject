@@ -11,7 +11,10 @@ public class MyClientHander extends SimpleChannelInboundHandler<String> {
         System.out.println(channelHandlerContext.channel().remoteAddress());
         System.out.println("client output: " + s);
         Thread.sleep(1000);
-        channelHandlerContext.writeAndFlush("from client: " + LocalDateTime.now());
+        channelHandlerContext.writeAndFlush("from client: " + LocalDateTime.now() + "from clientfrom client" +
+                "from clientfrom clientfrom clientfrom clientfrom clientfrom clientfrom clientfrom clientfrom client" +
+                "from clientfrom clientfrom clientfrom clientfrom clientfrom client" +
+                "from client");
     }
 
     @Override

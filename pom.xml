@@ -6,6 +6,7 @@
 
     <groupId>groupId</groupId>
     <artifactId>lxnJavaProject</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
@@ -19,6 +20,12 @@
             </plugin>
         </plugins>
     </build>
+    <properties>
+        <protostuff.version>1.7.4</protostuff.version>
+    </properties>
+    <modules>
+        <module>sshd-project</module>
+    </modules>
 
     <!-- https://mvnrepository.com/artifact/org.apache.struts/struts2-core -->
     <dependencies>
@@ -159,14 +166,32 @@
             <artifactId>protobuf-java</artifactId>
             <version>2.5.0</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.20</version>
+            <scope>provided</scope>
+        </dependency>
 
+        <dependency>
+            <groupId>io.protostuff</groupId>
+            <artifactId>protostuff-core</artifactId>
+            <version>${protostuff.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.protostuff</groupId>
+            <artifactId>protostuff-runtime</artifactId>
+            <version>${protostuff.version}</version>
+        </dependency>
 
 
         <!-- 本地jar -->
         <dependency>
             <groupId>mylib</groupId>
             <artifactId>bigmemory</artifactId>
-            <scope>system</scope>
+            <version>4.0.0</version>
         </dependency>
         <dependency>
             <groupId>mylib</groupId>
@@ -198,59 +223,67 @@
             <artifactId>jl</artifactId>
             <scope>system</scope>
         </dependency>
+
+
+        <dependency>
+            <groupId>io.github.anand1st</groupId>
+            <artifactId>sshd-shell-spring-boot-starter</artifactId>
+            <version>4.1</version>
+        </dependency>
+
     </dependencies>
 
-<dependencyManagement>
-    <dependencies>
-        <dependency>
-            <groupId>mylib</groupId>
-            <artifactId>bigmemory</artifactId>
-            <scope>system</scope>
-            <version>4.0.0</version>
-            <systemPath>${project.basedir}/lib/bigmemory-4.0.0.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>mylib</groupId>
-            <artifactId>ehcache</artifactId>
-            <scope>system</scope>
-            <version>2.7.0</version>
-            <systemPath>${project.basedir}/lib/ehcache-ee-2.7.0.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>mylib</groupId>
-            <artifactId>gframe</artifactId>
-            <scope>system</scope>
-            <version>1.0</version>
-            <systemPath>${project.basedir}/lib/gframe.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>mylib</groupId>
-            <artifactId>GODU</artifactId>
-            <scope>system</scope>
-            <version>4.0</version>
-            <systemPath>${project.basedir}/lib/GODU-4.0.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>mylib</groupId>
-            <artifactId>GODU_RESOURCE</artifactId>
-            <scope>system</scope>
-            <version>3.1</version>
-            <systemPath>${project.basedir}/lib/GODU_RESOURCE-3.1.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>mylib</groupId>
-            <artifactId>gsocket</artifactId>
-            <scope>system</scope>
-            <version>1.0</version>
-            <systemPath>${project.basedir}/lib/gsocket.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>mylib</groupId>
-            <artifactId>jl</artifactId>
-            <scope>system</scope>
-            <version>1.0</version>
-            <systemPath>${project.basedir}/lib/jl1.0.jar</systemPath>
-        </dependency>
-    </dependencies>
-</dependencyManagement>
+<!--<dependencyManagement>-->
+<!--    <dependencies>-->
+<!--        <dependency>-->
+<!--            <groupId>mylib</groupId>-->
+<!--            <artifactId>bigmemory</artifactId>-->
+<!--            <scope>system</scope>-->
+<!--            <version>4.0.0</version>-->
+<!--            <systemPath>${project.basedir}/lib/bigmemory-4.0.0.jar</systemPath>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>mylib</groupId>-->
+<!--            <artifactId>ehcache</artifactId>-->
+<!--            <scope>system</scope>-->
+<!--            <version>2.7.0</version>-->
+<!--            <systemPath>${project.basedir}/lib/ehcache-ee-2.7.0.jar</systemPath>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>mylib</groupId>-->
+<!--            <artifactId>gframe</artifactId>-->
+<!--            <scope>system</scope>-->
+<!--            <version>1.0</version>-->
+<!--            <systemPath>${project.basedir}/lib/gframe.jar</systemPath>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>mylib</groupId>-->
+<!--            <artifactId>GODU</artifactId>-->
+<!--            <scope>system</scope>-->
+<!--            <version>4.0</version>-->
+<!--            <systemPath>${project.basedir}/lib/GODU-4.0.jar</systemPath>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>mylib</groupId>-->
+<!--            <artifactId>GODU_RESOURCE</artifactId>-->
+<!--            <scope>system</scope>-->
+<!--            <version>3.1</version>-->
+<!--            <systemPath>${project.basedir}/lib/GODU_RESOURCE-3.1.jar</systemPath>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>mylib</groupId>-->
+<!--            <artifactId>gsocket</artifactId>-->
+<!--            <scope>system</scope>-->
+<!--            <version>1.0</version>-->
+<!--            <systemPath>${project.basedir}/lib/gsocket.jar</systemPath>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>mylib</groupId>-->
+<!--            <artifactId>jl</artifactId>-->
+<!--            <scope>system</scope>-->
+<!--            <version>1.0</version>-->
+<!--            <systemPath>${project.basedir}/lib/jl1.0.jar</systemPath>-->
+<!--        </dependency>-->
+<!--    </dependencies>-->
+<!--</dependencyManagement>-->
 </project>

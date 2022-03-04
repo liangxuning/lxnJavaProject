@@ -11,7 +11,7 @@ public class MyServerHander extends SimpleChannelInboundHandler<String> {
     protected void channelRead0(ChannelHandlerContext channelHandlerContext, String s) throws Exception {
         System.out.println(channelHandlerContext.channel().remoteAddress() + "," + s);
         channelHandlerContext.channel().writeAndFlush("from server" + UUID.randomUUID());
-        channelHandlerContext.channel().close();
+//        channelHandlerContext.channel().close();
     }
 
     @Override

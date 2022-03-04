@@ -3,26 +3,38 @@ package com.lxn.common;
 import org.jboss.netty.buffer.ChannelBuffer;
 
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.nio.charset.Charset;
 
+import static org.jboss.netty.buffer.ChannelBuffers.dynamicBuffer;
+
 public class EncodeUtil {
-    public static void main(String[] args) {
-        String  ss = charsetConvert("梁旭宁", "gbk");
+    public static void main(String[] args) throws UnsupportedEncodingException {
+        String  ss = charsetConvert("梁旭宁", "utf-8");
         System.out.println(ss);
+
+        String s = "s梁旭宁sli梁";
+        ChannelBuffer channelBuffer = dynamicBuffer(0);
+        channelBuffer.writeBytes(s.getBytes("utf-8"));
+        System.out.println(new String(channelBuffer.toString(Charset.forName("utf-8")).getBytes(Charset.forName("gbk")), "gbk"));
+//        turn(channelBuffer);
+        turn(channelBuffer);
+
     }
     private static String charsetConvert(String str, String charset) {
         try {
             str = new sun.misc.BASE64Encoder().encode(str.getBytes(charset));
             byte[] bytes = new sun.misc.BASE64Decoder().decodeBuffer(str);
-            str = new String(bytes, charset);
+            str = new String(bytes, "gbk");
         } catch(IOException e) {
             e.printStackTrace();
         }
         return str;
     }
+
+
     public static void turn(ChannelBuffer bytes) {
-//					logger.info(chBufini.readableBytes() + "------" + chBuf.readableBytes());
-//					logger.info("utf-8默认要转码为GBK");
         byte[] bini = new byte[bytes.readableBytes()];
         byte tempByte;
         int lastIndex = bytes.readableBytes() -1;
@@ -52,4 +64,25 @@ public class EncodeUtil {
         bini = bytes.toString(Charset.forName("utf-8")).getBytes(Charset.forName("gbk"));
         System.out.println(new String(bini, Charset.forName("gbk")));
     }
+
+        public static void turn2() {
+            try {
+                String s = URLEncoder.encode("s梁宁", "gbk");
+                System.out.println(s);
+            } catch (UnsupportedEncodingException e) {
+                e.printStackTrace();
+            }
+
+        }
+
+        public static void encodetest(String s) {
+            try {
+                byte[] bytes = s.getBytes("gbk");
+                System.out.println(BytesUtil.printHexString(bytes));
+                System.out.println(new String(bytes,"utf-8"));
+            } catch (UnsupportedEncodingException e) {
+                e.printStackTrace();
+            }
+        }
+
 }
