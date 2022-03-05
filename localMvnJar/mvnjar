@@ -1,0 +1,7 @@
+mvn install:install-file -Dfile=/Users/liangxuning/Private/git_project/lxnJavaProject/lib/bigmemory-4.0.0.jar -DgroupId=mylib -DartifactId=bigmemory -Dversion=4.0.0 -Dpackaging=jar
+mvn install:install-file -Dfile=/Users/liangxuning/Private/git_project/lxnJavaProject/lib/ehcache-ee-2.7.0.jar -DgroupId=mylib -DartifactId=ehcache -Dversion=2.7 -Dpackaging=jar
+mvn install:install-file -Dfile=/Users/liangxuning/Private/git_project/lxnJavaProject/lib/gframe.jar -DgroupId=mylib -DartifactId=gframe -Dversion=1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=/Users/liangxuning/Private/git_project/lxnJavaProject/lib/GODU-4.0.jar -DgroupId=mylib -DartifactId=GODU -Dversion=4.0 -Dpackaging=jar
+mvn install:install-file -Dfile=/Users/liangxuning/Private/git_project/lxnJavaProject/lib/GODU_RESOURCE-3.1.jar -DgroupId=mylib -DartifactId=GODU_RESOURCE -Dversion=3.1 -Dpackaging=jar
+mvn install:install-file -Dfile=/Users/liangxuning/Private/git_project/lxnJavaProject/lib/gsocket.jar -DgroupId=mylib -DartifactId=gsocket -Dversion=1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=/Users/liangxuning/Private/git_project/lxnJavaProject/lib/jl1.0.jar -DgroupId=mylib -DartifactId=jl -Dversion=1.0 -Dpackaging=jar

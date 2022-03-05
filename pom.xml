@@ -196,32 +196,32 @@
         <dependency>
             <groupId>mylib</groupId>
             <artifactId>ehcache</artifactId>
-            <scope>system</scope>
+            <version>2.7</version>
         </dependency>
         <dependency>
             <groupId>mylib</groupId>
             <artifactId>gframe</artifactId>
-            <scope>system</scope>
+            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>mylib</groupId>
             <artifactId>GODU</artifactId>
-            <scope>system</scope>
+            <version>4.0</version>
         </dependency>
         <dependency>
             <groupId>mylib</groupId>
             <artifactId>GODU_RESOURCE</artifactId>
-            <scope>system</scope>
+            <version>3.1</version>
         </dependency>
         <dependency>
             <groupId>mylib</groupId>
             <artifactId>gsocket</artifactId>
-            <scope>system</scope>
+            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>mylib</groupId>
             <artifactId>jl</artifactId>
-            <scope>system</scope>
+            <version>1.0</version>
         </dependency>
 
 
